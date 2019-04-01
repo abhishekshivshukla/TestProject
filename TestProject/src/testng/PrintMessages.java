@@ -8,6 +8,5 @@ public class PrintMessages {
 	public void print()
 	{
 		System.out.println("Hello ! Good Morning");
-		System.out.println("Have a nice day");
 	}
 }
