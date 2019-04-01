@@ -5,12 +5,12 @@
       <![CDATA[hello ! Good morning]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="22" started-at="2019-04-01T15:53:07Z" finished-at="2019-04-01T15:53:07Z">
+  <suite name="Suite" duration-ms="24" started-at="2019-04-01T19:25:28Z" finished-at="2019-04-01T19:25:28Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22" started-at="2019-04-01T15:53:07Z" finished-at="2019-04-01T15:53:07Z">
+    <test name="Test" duration-ms="24" started-at="2019-04-01T19:25:28Z" finished-at="2019-04-01T19:25:28Z">
       <class name="testng.PrintMessages">
-        <test-method status="FAIL" signature="print()[pri:0, instance:testng.PrintMessages@61a52fbd]" name="print" duration-ms="7" started-at="2019-04-01T15:53:07Z" finished-at="2019-04-01T15:53:07Z">
+        <test-method status="FAIL" signature="print()[pri:0, instance:testng.PrintMessages@61a52fbd]" name="print" duration-ms="6" started-at="2019-04-01T19:25:28Z" finished-at="2019-04-01T19:25:28Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
